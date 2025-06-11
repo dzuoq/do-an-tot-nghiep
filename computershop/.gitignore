@@ -32,4 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
+# Không upload file serviceAccountKey.json trong mọi thư mục resources
+src/main/resources/serviceAccountKey.json
 
